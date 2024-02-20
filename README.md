@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+With my life back on track, I have more time and energy to code.
+Currently working on Graph Guesser. I think it might end up on itch if I make the graphics decent.
+Still, it only has basic functionality right now.
+
 <!--
 **NatiM6/NatiM6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
